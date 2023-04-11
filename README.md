@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/4K3YM4L" target="_blank" rel="noreferrer">4K3YM4L</a> 👋
+</h3>
 
-<!--
-**4K3YM4L/4K3YM4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm an IT Technician and Cybersecurity Enthusiast 💻
+</h2>
+<p align="center"> I have experience in troubleshooting hardware and software issues, setting up networks and maintaining computer systems. I'm also passionate about cybersecurity and enjoy keeping up with the latest trends and techniques. In my free time, I enjoy learning about new cybersecurity tools and techniques. 
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+ I'm currently learning and practice on TryHackMe
+</h2>
+  
+<p align="center"> - 
+[X] Offensive Pentesting Learning Path [X]</p> </center>
+<p align="center">[X] Red Teaming Learning Path [X]</p> </center>
+<p align="center">[X] Cyberdefense Learning Path [X]</p> </center>
+</center>
