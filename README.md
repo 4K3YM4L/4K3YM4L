@@ -18,3 +18,4 @@ I'm an IT Technician and Cybersecurity Enthusiast 💻
 <p align="center">[X] Red Teaming Learning Path [X]</p> </center>
 <p align="center">[X] Cyberdefense Learning Path [X]</p> </center>
 </center>
+![GIF demonstrating a software feature](./images/feature-demo.gif)
