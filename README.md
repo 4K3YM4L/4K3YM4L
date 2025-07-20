@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://github.com/4K3YM4L" target="_blank" rel="noreferr
 </h3>
 
 <h2 align="center">
-I'm an ITEnthusiast 💻
+I'm an IT Enthusiast 💻
 </h2>
 <p align="center"> I have experience in troubleshooting hardware and software issues, setting up networks and maintaining computer systems. I'm also passionate about cybersecurity.
 </p>
